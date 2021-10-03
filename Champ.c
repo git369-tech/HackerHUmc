@@ -4,5 +4,5 @@ int main(){
 
 printf("Hello Dear, whats up");
   
-printf("wah mc");
+printf("wah kya hai");
 }
