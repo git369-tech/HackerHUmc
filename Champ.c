@@ -2,5 +2,7 @@
 
 int main(){
 
-printf("Hello Dea Mf , whats up"):
+printf("Hello Dear, whats up");
+  
+
 }
