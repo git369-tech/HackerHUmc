@@ -9,6 +9,7 @@ printf("wah kya hai");
 int c = 10000;
 
 printf("%d",&c);
+printf("2*%d",&c);
 
 }
 
